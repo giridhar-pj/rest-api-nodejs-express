@@ -19,7 +19,7 @@ A REST API built with Node.js and Express, supporting full CRUD operations on a 
 npm install
 node server.js
 
-Server runs on http://localhost:3000
+Server runs on [http://localhost:3000](http://localhost:3000/api/products)
 
 ## Testing
 Tested using Postman for all CRUD operations.
