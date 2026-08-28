@@ -1,4 +1,4 @@
-# Codveda Full-Stack Internship - Level 1, Task 2: Simple REST API
+Simple REST API
 
 A REST API built with Node.js and Express, supporting full CRUD operations on a products resource.
 
